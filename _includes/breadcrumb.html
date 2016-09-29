@@ -1,0 +1,11 @@
+<ol class="breadcrumb">
+    {% if page.url != '/' %}
+    <li><a href="{{ site.baseurl }}/">Início</a></li>
+    {% endif %}
+
+    {% if page.tags %}
+    <li><a href="{{ site.baseurl}}/lista/#{{ page.tags }}">{{ page.tags }}</a></li>
+    {% endif %}
+
+    <li class="active">{{ page.title }}</li>
+</ol>
