@@ -20,7 +20,7 @@
                         {% assign list = category[1] | sort %}
                         {% for post in list %}
                         <li>
-                            <a href="{{ post.url }}">{{ post.title }}</a>
+                            <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
                         </li>
                         {% endfor %}
                     </ul>
