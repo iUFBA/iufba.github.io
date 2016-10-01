@@ -1,0 +1,22 @@
+---
+layout: default
+title: Lista de todos os textos do site
+---
+
+Aqui deixamos para você uma lista de todos os textos que temos no site, sejam eles textos informativos sobre algo da UFBA ou postagens no blog.
+
+{% assign taglist = site.tags | sort %}
+{% for category in taglist %}
+    <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
+    <ul class="post-list">
+        {% assign list = category[1] | sort %}  
+        {% for post in list %}
+            <li>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+        {% assign pages_list = nil %}
+        {% assign group = nil %}
+    </ul>
+{% endfor %}
+{% assign taglist = nil %}

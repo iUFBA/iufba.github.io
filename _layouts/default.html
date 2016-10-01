@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    {% include head.html %}
+</head>
+<body>
+    <div class="container">
+
+        <header>
+            {% include header.html %}
+        </header>
+
+        <section>
+
+            <div class="text-center">
+                <img src="{{ site.baseurl }}/style/assets/img/ufba.png" height="150px">
+            </div>
+
+            <h1>{{ page.title }}</h1>
+            {% include breadcrumb.html %}
+            <hr>
+
+            {{ content }}
+
+        </section>
+
+        <footer>
+            {% include footer.html %}
+        </footer>
+
+    </div>
+	
+    {% if site.ssl %}
+        <script src="style/assets/js/force_https.js"></script>
+    {% endif %}
+</body>
+</html>
