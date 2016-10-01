@@ -12,6 +12,7 @@
         <div class="collapse navbar-collapse" id="infonav">
             <ul class="nav navbar-nav navbar-right">
                 <li {% if page.url == '/' %}class="active"{%endif%}><a href="{{ site.baseurl }}/">Início</a></li>
+                <li {% if page.url == '/app/' %}class="active"{%endif%}><a href="{{ site.baseurl }}/app">App</a></li>
                 {% assign taglist = site.tags | sort %}
                 {% for category in taglist %}
                 <li class="dropdown">

@@ -11,6 +11,8 @@ Vamos tentar ajudar você, pobre batalhador discente/docente, principalmente nav
 
 No menu você pode escolher sobre o que deseja se informar, mas caso queira ver uma lista de todas as páginas pode [clicar aqui][lista].
 
+Também contamos com um aplicativo mobile! Isso mesmo! Para mais informações entre na página [App].
+
 Qualquer dica, crítica ou sugestão, estamos abertos a isso! Basta ver como fazer na página de [Contato].
 
 Quer saber mais um pouco a respeito do projeto? Massa! Entra na página [Sobre]!
@@ -18,3 +20,4 @@ Quer saber mais um pouco a respeito do projeto? Massa! Entra na página [Sobre]!
 [contato]: {{ site.baseurl }}/contato
 [sobre]: {{ site.baseurl }}/sobre
 [lista]: {{ site.baseurl }}/lista
+[app]: {{ site.baseurl }}/app
