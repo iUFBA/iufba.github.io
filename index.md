@@ -5,7 +5,7 @@ title: Início
 
 # Bem vindo!
 
-Vamos tentar ajudar você, pobre batalhador discente/doscente, principalmente navegantes de primeira viagem, UFBA a ter algumas informações facilitadas do nosso meio.
+Vamos tentar ajudar você, pobre batalhador discente/docente, principalmente navegantes de primeira viagem, UFBA a ter algumas informações facilitadas do nosso meio.
 
 > Então chegue mais e bom proveito!
 
