@@ -1,0 +1,29 @@
+---
+layout: default
+title: Blog
+baseurl: /blog
+---
+
+
+{% assign taglist = site.tags | sort %}
+{% for category in taglist %}
+    {% if category[0] == 'Blog' %}
+        {% assign list = category[1] | sort %}  
+        {% for post in list %}
+            <h3 id="{{ post.url }}">
+                <a href="{{ page.url }}#{{ post.url }}"><span class="glyphicon glyphicon-link"></span></a>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </h3>
+            <p>{{ post.content | truncatewords: 50 }}</p>
+            <p>
+                <a href="{{ site.baseurl }}{{ post.url }}">
+                    Ler post completo 
+                    <span class="glyphicon glyphicon-new-window"></span>
+                </a>
+            </p>
+        {% endfor %}
+        {% assign pages_list = nil %}
+        {% assign group = nil %}
+    {% endif %}
+{% endfor %}
+{% assign taglist = nil %}

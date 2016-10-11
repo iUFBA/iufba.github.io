@@ -17,7 +17,10 @@ Qualquer dica, crítica ou sugestão, estamos abertos a isso! Basta ver como faz
 
 Quer saber mais um pouco a respeito do projeto? Massa! Entra na página [Sobre]!
 
+Também temos um blog para novidades sobre o projeto. Acesse [clicando aqui][blog] e se mantenha informado!
+
 [contato]: {{ site.baseurl }}/contato
 [sobre]: {{ site.baseurl }}/sobre
 [lista]: {{ site.baseurl }}/lista
 [app]: {{ site.baseurl }}/app
+[blog]: {{ site.baseurl }}/blog

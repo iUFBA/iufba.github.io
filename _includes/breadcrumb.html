@@ -4,7 +4,7 @@
     {% endif %}
 
     {% if page.tags %}
-    <li><a href="{{ site.baseurl}}/lista/#{{ page.tags }}">{{ page.tags }}</a></li>
+    <li><a href="{{ site.baseurl}}/{% if page.categories contains 'blog' %}blog/{% else %}lista/#{{ page.tags }}{% endif %}">{{ page.tags }}</a></li>
     {% endif %}
 
     <li class="active">{{ page.title }}</li>

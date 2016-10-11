@@ -3,10 +3,11 @@ layout: default
 title: Lista de todos os textos do site
 ---
 
-Aqui deixamos para você uma lista de todos os textos que temos no site, sejam eles textos informativos sobre algo da UFBA ou postagens no blog.
+Aqui deixamos para você uma lista com todos os textos informativos que temos no site. Para postagens do blog, acesse a página <a href="{{ site.baseurl }}/blog">Blog</a>.
 
 {% assign taglist = site.tags | sort %}
 {% for category in taglist %}
+    {% if category[0] != 'Blog' %}
     <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
     <ul class="post-list">
         {% assign list = category[1] | sort %}  
@@ -18,5 +19,6 @@ Aqui deixamos para você uma lista de todos os textos que temos no site, sejam e
         {% assign pages_list = nil %}
         {% assign group = nil %}
     </ul>
+    {% endif %}
 {% endfor %}
 {% assign taglist = nil %}
