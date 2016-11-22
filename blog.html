@@ -8,7 +8,7 @@ baseurl: /blog
 {% assign taglist = site.tags | sort %}
 {% for category in taglist %}
     {% if category[0] == 'Blog' %}
-        {% assign list = category[1] | sort %}  
+        {% assign list = category[1] %}  
         {% for post in list %}
             <h3 id="{{ post.url }}">
                 <a href="{{ page.url }}#{{ post.url }}"><span class="glyphicon glyphicon-link"></span></a>
