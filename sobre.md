@@ -16,7 +16,7 @@ Para tocar esse projeto pra frente fizemos uso de algumas ótimas tecnologias, s
 * [Github Pages][pages]
 * [Formspree]
 
-[github]: https://github.com/InfoUFBA/
+[github]: {{ site.github_url }}
 [vim]: http://www.vim.org/
 [linux]: https://www.kernel.org/
 [gnu]: https://www.gnu.org/
