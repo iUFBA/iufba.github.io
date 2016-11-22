@@ -5,13 +5,13 @@ title: Contato
 
 Opa, então quer nos dar algum feedback? Sugerir assuntos para tratar aqui ou até mesmo mandar sua contribuição? Show! Fala com a gente!
 
-Você pode fazer isso mandando e-mail para _**infoufba *sem_span* protonmail *ponto* com**_.
+Você pode fazer isso mandando e-mail para _**iUFBA *sem_span* protonmail *ponto* com**_.
 
 Ou ainda pode mandar pelo formulário abaixo:
 
 <div class="row">
     <div class="col-md-8">
-        <form method="POST" action="https://formspree.io/infoufba@protonmail.com">
+        <form method="POST" action="https://formspree.io/iUFBA@protonmail.com">
             <div class="form-group">
                 <label for="nome">Nome: </label>
                 <input type="text" class="form-control" name="nome" id="nome" required>
