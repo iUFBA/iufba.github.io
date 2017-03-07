@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lingu¡gil
+title: Lingu√Ågil
 categories: eventos
 tags: Eventos
 ---
 
-O Lingu¡gil È um evento voltado ‡s linguagens de programaÁ„o e ‡s metodologias ·geis (mÈtodos que envolve o desenvolvimento de um software rapidamente, uma das mais usadas È a interaÁ„o, que minimiza o erro e È r·pida). Tendo duraÁ„o, no ultimo evento, de quatro dias.
+O [Lingu√Ågil](http://linguagil.com.br/) √© um evento voltado √†s linguagens de programa√ß√£o e √†s metodologias √°geis (m√©todos que envolve o desenvolvimento de um software rapidamente, uma das mais usadas √© a intera√ß√£o, que minimiza o erro e √© r√°pida). Tendo dura√ß√£o, no ultimo evento, de quatro dias.
 
-A programaÁ„o È variada, com uma quantidade abundante de workshops e palestras com profissionais em programaÁ„o, que v„o de construÁ„o de aplicativos a ìcomo empreender tendo um emprego?î. … um evento sem fins lucrativos, mas para ter acesso È necess·rio o pagamento dos ingressos a um preÁo mÈdio de R$60,00 o dia. 
+A programa√ß√£o √© variada, com uma quantidade abundante de workshops e palestras com profissionais em programa√ß√£o, que v√£o de constru√ß√£o de aplicativos a ‚Äúcomo empreender tendo um emprego?‚Äù. √â um evento sem fins lucrativos, mas para ter acesso √© necess√°rio o pagamento dos ingressos a um pre√ßo m√©dio de R$60,00 o dia. 
 
-Ultima ediÁ„o em 2016. Sem previs„o de nova ediÁ„o atÈ o momento. 
+Ultima edi√ß√£o em 2016. Sem previs√£o de nova edi√ß√£o at√© o momento. 

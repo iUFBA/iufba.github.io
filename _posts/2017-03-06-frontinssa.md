@@ -5,6 +5,6 @@ categories: eventos
 tags: Eventos
 ---
 
-O FrontInSalvador È um evento que ocorre durante todo um dia, e tem como objetivo ìmovimentar a comunidade e cultura de Front Endî. O evento È voltado aos desenvolvedores Front End, oferecendo palestras com os assuntos em alta e as novidades nessa ·rea.
+O [FrontInSalvador](http://frontinssa.com/) √© um evento que ocorre durante todo um dia, e tem como objetivo ‚Äúmovimentar a comunidade e cultura de Front End‚Äù. O evento √© voltado aos desenvolvedores Front End, oferecendo palestras com os assuntos em alta e as novidades nessa √°rea.
 
-Sua primeira ediÁ„o ocorreu em Outubro/2016, com previs„o de acontecer de novo no ano de 2017.
+Sua primeira edi√ß√£o ocorreu em Outubro/2016, com previs√£o de acontecer de novo no ano de 2017.

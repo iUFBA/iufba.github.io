@@ -5,42 +5,42 @@ categories: blog
 tags: Blog
 ---
 
-Entrevista com Elizabete Reis, estudante de Sistemas de Informação da UNEB e também parte do centro acadêmico. Elizabete az iniciação científica na área de robótica e sistemas multiagentes, as pessoas de seu grupo geralmente tomam frente do evento, pois estão na UNEB o dia todo e isso facilita resolver os processos burocráticos, além de ser uma certa cultura passar isso para os calouros.
+Entrevista com Elizabete Reis, estudante de Sistemas de InformaÃ§Ã£o da UNEB. Parte do centro acadÃªmico de SI, Elizabete faz iniciaÃ§Ã£o cientÃ­fica na Ã¡rea de robÃ³tica e sistemas multiagentes. As pessoas de seu grupo geralmente tomam frente da [InfoUneb](2017-03-06-infouneb.md), pois estÃ£o na UNEB o dia todo e isso facilita resolver os processos burocrÃ¡ticos, alÃ©m de ser uma certa cultura passar isso para os calouros.
 
-**Entrevistador:** Olá Elizabete, tudo certo? Sou ingressante do curso de CC da UFBA, e estou fazendo uma pesquisa sobre os eventos tecnológicos que rolam aqui na Bahia, e fiquei sabendo que você participou da organização do último, certo?
+**Entrevistador:** OlÃ¡ Elizabete, tudo certo? Sou ingressante do curso de CC da UFBA, e estou fazendo uma pesquisa sobre os eventos tecnolÃ³gicos que rolam aqui na Bahia, e fiquei sabendo que vocÃª participou da organizaÃ§Ã£o da Ãºltima InfoUneb, certo?
 
 **Elizabete:** Oi, tudo bem. Participei sim.
 
-**Entrevistador:** Queria lhe fazer uma minientrevista sobre o evento com umas perguntas simples. Você topa?
+**Entrevistador:** Queria lhe fazer uma minientrevista sobre o evento com umas perguntas simples. VocÃª topa?
 
 **Elizabete:** Sim.
 
-**Entrevistador:** Primeiramente, o que é o InfoUneb? E qual seu objetivo?
+**Entrevistador:** Primeiramente, o que Ã© o InfoUneb? E qual seu objetivo?
 
-**Elizabete:** É a semana de tecnologia da informação realizada pelos alunos da UNEB, nosso objetivo é dar à luz à temas que o pessoal de SI da UNEB tem o interesse em conhecer ou se aprofundar, aquela coisa de faculdade não é só a sala de aula, é a vivência que se tem durante os anos de graduação.
+**Elizabete:** Ã‰ a semana de tecnologia da informaÃ§Ã£o realizada pelos alunos da UNEB, nosso objetivo Ã© dar Ã  luz Ã  temas que o pessoal de SI da UNEB tem o interesse em conhecer ou se aprofundar, aquela coisa de faculdade nÃ£o Ã© sÃ³ a sala de aula, Ã© a vivÃªncia que se tem durante os anos de graduaÃ§Ã£o.
 
-**Entrevistador:** Qual o público alvo da InfoUneb? Há entusiastas lá ou apenas formados e formandos?
+**Entrevistador:** Qual o pÃºblico alvo da InfoUneb? HÃ¡ entusiastas lÃ¡ ou apenas formados e formandos?
 
-**Elizabete:** Principalmente os alunos de SI da UNEB, mas também a comunidade de TI no geral, em grande parte formandos. Praticamente não tem formados.
+**Elizabete:** Principalmente os alunos de SI da UNEB, mas tambÃ©m a comunidade de TI no geral, em grande parte formandos. Praticamente nÃ£o tem formados.
 
-**Entrevistador:** Mas é basicamente livre para quem tiver interesse em ir?
+**Entrevistador:** Mas Ã© basicamente livre para quem tiver interesse em ir?
 
 **Elizabete:** Sim.
 
-**Entrevistador:** Quando que acontece o evento? É na UNEB mesmo? Como interessados podem participar? Há taxa?
+**Entrevistador:** Quando que acontece o evento? Ã‰ na UNEB mesmo? Como interessados podem participar? HÃ¡ taxa?
 
-**Elizabete:** O evento acontece nos espaços da UNEB, disponibilizamos um site para o pessoal fazer inscrição, cobramos de 10 a 15 reais como taxa mais adicional para workshops.
+**Elizabete:** O evento acontece nos espaÃ§os da UNEB, disponibilizamos um site para o pessoal fazer inscriÃ§Ã£o, cobramos de 10 a 15 reais como taxa mais adicional para workshops.
 
-**Entrevistador:** Alguma data específica, alinhamento com o calendário da UNEB ou só no final do ano?
+**Entrevistador:** Alguma data especÃ­fica, alinhamento com o calendÃ¡rio da UNEB ou sÃ³ no final do ano?
 
-**Elizabete:** O evento é realizado a cada 2 anos, geralmente em Outubro ou Novembro. Evitamos início e fim de semestres e períodos de férias.
+**Elizabete:** O evento Ã© realizado a cada 2 anos, geralmente em Outubro ou Novembro. Evitamos inÃ­cio e fim de semestres e perÃ­odos de fÃ©rias.
 
-**Entrevistador:** Que tipo de experiências, atrações ou qualquer outra coisa que os desenvolvedores possam se envolver existem na InfoUneb?
+**Entrevistador:** Que tipo de experiÃªncias, atraÃ§Ãµes ou qualquer outra coisa que os desenvolvedores possam se envolver existem na InfoUneb?
 
-**Elizabete:** Geralmente a grade toda é constituída levando em consideração o que os alunos querem ver, toda edição adotamos uma temática diferente. As palestras são voltadas a assuntos mais generalistas para que mesmo os calouros possam acompanhar, já que este é o público principal. Já os Workshops são mais específicos, geralmente trazemos ferramentas que apoiam o desenvolvimento de software e algo também relacionado a pesquisa acadêmica.
+**Elizabete:** Geralmente a grade toda Ã© constituÃ­da levando em consideraÃ§Ã£o o que os alunos querem ver, toda ediÃ§Ã£o adotamos uma temÃ¡tica diferente. As palestras sÃ£o voltadas a assuntos mais generalistas para que mesmo os calouros possam acompanhar, jÃ¡ que este Ã© o pÃºblico principal. JÃ¡ os Workshops sÃ£o mais especÃ­ficos, geralmente trazemos ferramentas que apoiam o desenvolvimento de software e algo tambÃ©m relacionado a pesquisa acadÃªmica.
 
-**Entrevistador:** Como vocês selecionam os palestrantes? São da UNEB mesmo ou diversos? Quem tiver interesse em ser um palestrante, como deve se pronunciar?
+**Entrevistador:** Como vocÃªs selecionam os palestrantes? SÃ£o da UNEB mesmo ou diversos? Quem tiver interesse em ser um palestrante, como deve se pronunciar?
 
-**Elizabete:** São indicados pelos alunos e professores. Daí a organização fala diretamente com a pessoa, quem tiver interesse é só falar com alguém da organização ou algum aluno.
+**Elizabete:** SÃ£o indicados pelos alunos e professores. DaÃ­ a organizaÃ§Ã£o fala diretamente com a pessoa, quem tiver interesse Ã© sÃ³ falar com alguÃ©m da organizaÃ§Ã£o ou algum aluno.
 
-**Entrevistador:** É isso. Parabéns pela iniciativa e obrigado por ceder seu tempo às perguntas.
+**Entrevistador:** Ã‰ isso. ParabÃ©ns pela iniciativa e obrigado por ceder seu tempo Ã s perguntas.
