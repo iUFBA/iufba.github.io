@@ -2,7 +2,7 @@
 layout: default
 title: Línguas Estrangeiras
 categories: estudos
-tags: estudos
+tags: Estudos
 ---
 
 Para ter um currículo completo e competitivo no mercado de trabalho, é imprescindível o domínio de pelo menos uma língua estrangeira. De todas os idiomas, o com maior destaque é o inglês, atualmente considerado como a língua mundial. As principais formas de aprender um idioma são cursos presenciais, ou online, através de apps e sites.
