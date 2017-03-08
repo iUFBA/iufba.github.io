@@ -5,7 +5,9 @@ categories: blog
 tags: Blog
 ---
 
-Entrevista com Elizabete Reis, estudante de Sistemas de Informação da UNEB. Parte do centro acadêmico de SI, Elizabete faz iniciação científica na área de robótica e sistemas multiagentes. As pessoas de seu grupo geralmente tomam frente da [InfoUneb](2017-03-06-infouneb.md), pois estão na UNEB o dia todo e isso facilita resolver os processos burocráticos, além de ser uma certa cultura passar isso para os calouros.
+Entrevista com Elizabete Reis, estudante de Sistemas de Informação da UNEB. Parte do centro acadêmico de SI, Elizabete faz iniciação científica na área de robótica e sistemas multiagentes através do [Nucleo de Arquitetura de Computadores e Sistemas Operacionais](http://www.acso.uneb.br/acso/) da UNEB.
+
+Ambos os grupos, o CA e o ACSO, normalmente tomam a frente da organização da InfoUneb, visto que estão na universidade o dia todo, o que facilita a resolução de processos burocráticos.
 
 **Entrevistador:** Olá Elizabete, tudo certo? Sou ingressante do curso de CC da UFBA, e estou fazendo uma pesquisa sobre os eventos tecnológicos que rolam aqui na Bahia, e fiquei sabendo que você participou da organização da última InfoUneb, certo?
 
