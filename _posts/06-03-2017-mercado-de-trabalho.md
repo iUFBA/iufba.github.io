@@ -43,7 +43,7 @@ atribuições são compostas 5 coordenações, conforme organograma
 aprovado no regimento da UFBA. As atribuições específicas são descritas
 detalhadamente, no âmbito de cada coordenação.
 
-#### Que portais existem que pode apoiar a busca de emprego (e.g. TI na Bahia)?
+#### Que portais existem que pode apoiar a busca de emprego?
 
 * [TI Bahia](http://www.tibahia.com/tecnologia_informacao/default.aspx)
 * [Vagas TI BA](http://vagastiba.blogspot.com.br/)
