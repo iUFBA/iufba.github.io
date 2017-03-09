@@ -9,7 +9,7 @@ tags: Estudos
 
 A **AVALIAÇÃO CURRICULAR** é o processo através do qual a instituição se apoia para homologar a integralização curricular do estudante.  Este acompanhamento deve ser realizado semestralmente pelos agentes de apoio dos Colegiados dos Cursos visando acompanhar a situação acadêmica do estudante e auxiliar os Centros de Ensinos e Colegiados a definirem a oferta de componentes curriculares semestral, garantindo dessa forma uma orientação precisa e eficiente ao estudante.
 
-##**Requisitos necessários para a integralização curricular:##
+##**Requisitos necessários para a integralização curricular**##
 
 * Cumprir as disciplinas obrigatórias definidas no currículo do curso.
 * Cumprir carga horária mínima de disciplinas optativas definidas no currículo do curso.
@@ -20,14 +20,14 @@ A **AVALIAÇÃO CURRICULAR** é o processo através do qual a instituição se a
 
 ##**Responsabilidades envolvidas**##
 
-###* Coordenador do Colegiado###
+###Coordenador do Colegiado###
 
 1. Acompanhar e analisar a vida acadêmica do estudante;
 2. Realizar avaliação curricular;
 3. Preencher as fichas;
 4. Encaminhar as fichas.
 
-###* NAC (Núcleo de Avaliação Curricular)###
+###NAC (Núcleo de Avaliação Curricular)###
 
 1. Avaliar e liberar no SIAC (Sistema Acadêmico) os estudantes concluintes;
 2. Encaminhar lista ao NEDIC (Núcleo de Diplomas e Certificados).
@@ -45,6 +45,8 @@ A **AVALIAÇÃO CURRICULAR** é o processo através do qual a instituição se a
 
 4.  Coordenador(a) do Colegiado realiza avaliação curricular e preenche as fichas de avaliação curricular de cada estudante, constando as seguinte informações:
 
+```md
+
 * Nome completo do estudante;
 * Número de matrícula;
 * Período de conclusão;
@@ -53,8 +55,10 @@ A **AVALIAÇÃO CURRICULAR** é o processo através do qual a instituição se a
 * Situação do estudante em relação ao ENADE;
 * Se há apostilamento, e, em caso de concomitância, deve-se informar qual será a primeira habilitação;
 * Se haverá reingresso para cursar modalidade de licenciatura ou bacharelado;
-* Se há processo de aproveitamento de estudos em andamento ou faltando registro;
+* Se há processo de aproveitamento de estudos em andamento ou faltando registro.
 * Observações quanto ao registro de atividades complementares, caso ainda não tenham sido registradas no SIAC.
+
+```
 
 5. Coordenador(a) do Colegiado envia ofício ao NAC com lista de concluintes e as fichas avaliação de cada estudante.
 
