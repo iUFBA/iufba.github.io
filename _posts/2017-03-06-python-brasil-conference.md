@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ruby Conf
+title: Python Brasil Conference
 categories: eventos
 tags: Eventos
 ---
