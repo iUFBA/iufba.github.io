@@ -15,8 +15,7 @@ Entre os programas de intercâmbio existentes, esses são os que estão presente
 
 ### AAI (Assessoria de assuntos Internacionais)
 
-vinculada ao gabinete da Reitoria da Universidade Federal da Bahia (UFBA), tem como atribuições promover as relações acadêmico-científicas
-da UFBA com vistas a prospectar, desenvolver e implementar convênios de cooperação e projetos inter-universitários e assessorar os corpos docente, discente, técnico e órgãos administrativos, nas suas relações com instituições e organismos internacionais.
+vinculada ao gabinete da Reitoria da Universidade Federal da Bahia (UFBA), tem como atribuições promover as relações acadêmico-científicas da UFBA com vistas a prospectar, desenvolver e implementar convênios de cooperação e projetos inter-universitários e assessorar os corpos docente, discente, técnico e órgãos administrativos, nas suas relações com instituições e organismos internacionais.
 Lança editais semestrais através do site. [Clique aqui](https://aai.ufba.br/pt-br/editais/) para acessar o site. Nesses editais, geralmente, se é oferecido apenas a isenção de taxas da universidade, sendo outros custos (alimentação, moradia, transporte) por conta do estudante. O aluno pode permanecer entre 1 e 2 semestres em intercâmbio.
 Para acessar a  lista de universidades parceiras [clique aqui](https://aai.ufba.br/universidades-conveniadas). São diversas universidades em todos os continentes.
 
